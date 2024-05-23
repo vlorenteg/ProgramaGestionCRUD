@@ -1,0 +1,83 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<OBJECT type="text/site properties">
+	<param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Portada">
+		<param name="Local" value="PORTADA-AYUDA.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Login y Menu Principal">
+		<param name="Local" value="LOGIN-Y-MENU-PRINCIPAL-AYUDA.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Oficinas">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Alta Oficinas">
+			<param name="Local" value="ALTA-OFICINAS-AYUDA.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Consulta Oficinas">
+			<param name="Local" value="CONSULTA-OFICINAS-AYUDA.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Modificacion Oficinas">
+			<param name="Local" value="MODIFICACION-OFICINAS-AYUDA.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Baja Oficinas">
+			<param name="Local" value="BAJA-OFICINAS-AYUDA.html">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Empleados">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Alta Emnpleados">
+			<param name="Local" value="ALTA-EMPLEADOS-AYUDA.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Consulta Empleados">
+			<param name="Local" value="CONSULTA-EMPLEADOS-AYUDA.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Modificacion Empleados">
+			<param name="Local" value="MODIFICACION-EMPLEADOS-AYUDA.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Baja Empleados">
+			<param name="Local" value="BAJA-EMPLEADOS-AYUDA.html">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Clientes">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Alta Clientes">
+			<param name="Local" value="ALTA-CLIENTES-AYUDA.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Consulta Clientes">
+			<param name="Local" value="CONSULTA-CLIENTES-AYUDA.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Modificacion Cliente">
+			<param name="Local" value="MODIFICACION-CLIENTES-AYUDA.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Baja Clientes">
+			<param name="Local" value="BAJA-CLIENTES-AYUDA.html">
+			</OBJECT>
+	</UL>
+</UL>
+</BODY></HTML>

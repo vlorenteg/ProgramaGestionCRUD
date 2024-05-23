@@ -29,7 +29,7 @@ public class Login implements WindowListener, ActionListener
 	Button btnVolver = new Button("Volver");
 	
 		
-	Login()
+	Login() //constructor
 	{
 		login.setLayout(new FlowLayout());
 		login.setSize(260,250);
@@ -82,7 +82,6 @@ public class Login implements WindowListener, ActionListener
 					String usuario = nombreUsuario.getText();
 					String clave = claveUsuario.getText();
 					tipoUsuario = c.comprobarCredenciales(usuario, clave);
-					c.tipoUsuario = tipoUsuario;
 					if(tipoUsuario!=-1)
 					{
 						new MenuPrincipal(usuario, tipoUsuario);

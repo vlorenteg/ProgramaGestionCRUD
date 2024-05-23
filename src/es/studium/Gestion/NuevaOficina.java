@@ -108,6 +108,8 @@ public class NuevaOficina implements WindowListener, ActionListener{
 				telefonoOficina.setText("");
 				direccionOficina.requestFocus();
 				telefonoOficina.requestFocus();
+				
+				NuevaOficina.setVisible(false);
 			}
 		}
 }
